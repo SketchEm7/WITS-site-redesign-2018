@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<posttitle><![CDATA[Opening Keynote: Believe in the Journey]]></posttitle>
+		<room><![CDATA[Grand Ballroom]]></room>
+		<time><![CDATA[9:00 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Building A Tech-Focused, Personal Brand for Your IT Profession]]></posttitle>
+		<room><![CDATA[301]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Discover Your Winning Product with User Story Mapping]]></posttitle>
+		<room><![CDATA[302]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Application of Data Analytics for Performance Improvement]]></posttitle>
+		<room><![CDATA[Grand Ballroom]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[The Functional Triumvirate: Scala, Elixir and Clojure]]></posttitle>
+		<room><![CDATA[301]]></room>
+		<time><![CDATA[11:20 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[When Being MEAN is a Good Thing: Developing with a Full Javascript Stack]]></posttitle>
+		<room><![CDATA[302]]></room>
+		<time><![CDATA[11:20 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Women Helping Women: The Stories, the Science, and the Steps you can personally take to make a difference.]]></posttitle>
+		<room><![CDATA[Grand Ballroom]]></room>
+		<time><![CDATA[11:20 AM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Surviving Life as a Remote Web Worker]]></posttitle>
+		<room><![CDATA[301]]></room>
+		<time><![CDATA[1:30 PM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Learn to Code & Teach Middle School Girls]]></posttitle>
+		<room><![CDATA[302]]></room>
+		<time><![CDATA[1:30 PM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[From Digital Diplomacy to Civic Engagement Women Lead in Tech and Politics]]></posttitle>
+		<room><![CDATA[Grand Ballroom]]></room>
+		<time><![CDATA[1:30 PM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Internet of Things: Don’t Miss Out on the Next Technical Revolution]]></posttitle>
+		<room><![CDATA[301]]></room>
+		<time><![CDATA[2:50 PM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Scalable and Modular Architecture for CSS and Intro to Sass]]></posttitle>
+		<room><![CDATA[302]]></room>
+		<time><![CDATA[2:50 PM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Driven, Diversified, & Dynamic: Building a Balanced Tech Industry]]></posttitle>
+		<room><![CDATA[Grand Ballroom]]></room>
+		<time><![CDATA[2:50 PM]]></time>
+	</node>
+	<node>
+		<posttitle><![CDATA[Closing Keynote: The Confidence Effect]]></posttitle>
+		<room><![CDATA[Grand Ballroom]]></room>
+		<time><![CDATA[4:00 PM]]></time>
+	</node>
+</data>

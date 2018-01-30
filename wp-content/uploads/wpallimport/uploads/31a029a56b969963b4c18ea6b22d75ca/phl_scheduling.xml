@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<postid><![CDATA[652]]></postid>
+		<undefined1><![CDATA[CyberSecurity -- A Deep Dive into Securing Your Company and Yourself in Today's Digital World]]></undefined1>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[653]]></postid>
+		<undefined1><![CDATA[Exploring the New Frontiers of Technology - Using Virtual Reality for More than Games]]></undefined1>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[651]]></postid>
+		<undefined1><![CDATA[No Excuses - How to Get Yourself on Stage]]></undefined1>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[654]]></postid>
+		<undefined1><![CDATA[How a Non-Technologist Started and Grew a Mobile Development Company]]></undefined1>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[646]]></postid>
+		<undefined1><![CDATA[Civic Tech: How Engaged Citizens Can Improve Cities]]></undefined1>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[650]]></postid>
+		<undefined1><![CDATA[Understanding the Invisible Box (CSS)]]></undefined1>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[648]]></postid>
+		<undefined1><![CDATA[How to Think Like a UX Designer]]></undefined1>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[578]]></postid>
+		<undefined1><![CDATA[Security Tools So Simple Your Grandma Could Hack You!]]></undefined1>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[563]]></postid>
+		<undefined1><![CDATA[Practical PHP: How to Back Away Slowly from Your WordPress Dashboard]]></undefined1>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[562]]></postid>
+		<undefined1><![CDATA[Mapping with Open Source Software: Using R]]></undefined1>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[574]]></postid>
+		<undefined1><![CDATA[Opening the Black Box - Hardware Tear-Down of a Digital Camera]]></undefined1>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[647]]></postid>
+		<undefined1><![CDATA[Use Prototyping to Get Good Faster]]></undefined1>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[693]]></postid>
+		<undefined1><![CDATA[Opening Keynote: Climbing the Tech Mountain in Heels: A Grown-Up Philly Girl Story]]></undefined1>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[9:00 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[649]]></postid>
+		<undefined1><![CDATA[Shifting Careers: Changing Gears or Changing Lanes]]></undefined1>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[565]]></postid>
+		<undefined1><![CDATA[How to get your startup off the ground and attract investors]]></undefined1>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[656]]></postid>
+		<undefined1><![CDATA[Internet of Things -- Exploring Many Aspects of a Key Technological Trend]]></undefined1>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[740]]></postid>
+		<undefined1><![CDATA[Create Your Line of Sight - The Secret to Getting There is to Know Where You're Going]]></undefined1>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[694]]></postid>
+		<undefined1><![CDATA[Closing Keynote--Climbing Down the High Dive: A Cautious Girl's Path to Success]]></undefined1>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[4:20 PM]]></time>
+	</node>
+</data>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<postid><![CDATA[652]]></postid>
+		<sessiontitle><![CDATA[CyberSecurity -- A Deep Dive into Securing Your Company and Yourself in Today's Digital World]]></sessiontitle>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[653]]></postid>
+		<sessiontitle><![CDATA[Exploring the New Frontiers of Technology - Using Virtual Reality for More than Games]]></sessiontitle>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[651]]></postid>
+		<sessiontitle><![CDATA[No Excuses - How to Get Yourself on Stage]]></sessiontitle>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[654]]></postid>
+		<sessiontitle><![CDATA[How a Non-Technologist Started and Grew a Mobile Development Company]]></sessiontitle>
+		<room><![CDATA[Franklin 1]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[646]]></postid>
+		<sessiontitle><![CDATA[Civic Tech: How Engaged Citizens Can Improve Cities]]></sessiontitle>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[650]]></postid>
+		<sessiontitle><![CDATA[Understanding the Invisible Box (CSS)]]></sessiontitle>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[648]]></postid>
+		<sessiontitle><![CDATA[How to Think Like a UX Designer]]></sessiontitle>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[578]]></postid>
+		<sessiontitle><![CDATA[Security Tools So Simple Your Grandma Could Hack You!]]></sessiontitle>
+		<room><![CDATA[Franklin 2]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[563]]></postid>
+		<sessiontitle><![CDATA[Practical PHP: How to Back Away Slowly from Your WordPress Dashboard]]></sessiontitle>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[562]]></postid>
+		<sessiontitle><![CDATA[Mapping with Open Source Software: Using R]]></sessiontitle>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[574]]></postid>
+		<sessiontitle><![CDATA[Opening the Black Box - Hardware Tear-Down of a Digital Camera]]></sessiontitle>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[647]]></postid>
+		<sessiontitle><![CDATA[Use Prototyping to Get Good Faster]]></sessiontitle>
+		<room><![CDATA[Haas]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[693]]></postid>
+		<sessiontitle><![CDATA[Opening Keynote: Climbing the Tech Mountain in Heels: A Grown-Up Philly Girl Story]]></sessiontitle>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[9:00 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[649]]></postid>
+		<sessiontitle><![CDATA[Shifting Careers: Changing Gears or Changing Lanes]]></sessiontitle>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[9:55 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[565]]></postid>
+		<sessiontitle><![CDATA[How to get your startup off the ground and attract investors]]></sessiontitle>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[11:40 AM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[656]]></postid>
+		<sessiontitle><![CDATA[Internet of Things -- Exploring Many Aspects of a Key Technological Trend]]></sessiontitle>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[1:40 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[740]]></postid>
+		<sessiontitle><![CDATA[Create Your Line of Sight - The Secret to Getting There is to Know Where You're Going]]></sessiontitle>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[3:10 PM]]></time>
+	</node>
+	<node>
+		<postid><![CDATA[694]]></postid>
+		<sessiontitle><![CDATA[Closing Keynote--Climbing Down the High Dive: A Cautious Girl's Path to Success]]></sessiontitle>
+		<room><![CDATA[Ullyott]]></room>
+		<time><![CDATA[4:20 PM]]></time>
+	</node>
+</data>

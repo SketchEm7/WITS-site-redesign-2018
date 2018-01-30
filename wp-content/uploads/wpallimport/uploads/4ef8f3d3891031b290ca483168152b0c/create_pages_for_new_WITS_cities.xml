@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<menulabel><![CDATA[Schedule]]></menulabel>
+		<slug><![CDATA[washington-schedule]]></slug>
+		<title><![CDATA[Washington Schedule]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Speakers]]></menulabel>
+		<slug><![CDATA[washington-speakers]]></slug>
+		<title><![CDATA[Washington Speakers]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Committee]]></menulabel>
+		<slug><![CDATA[washington-organizers]]></slug>
+		<title><![CDATA[Washington Organizers]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Sponsors]]></menulabel>
+		<slug><![CDATA[washington-sponsors]]></slug>
+		<title><![CDATA[Washington Sponsors]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Schedule]]></menulabel>
+		<slug><![CDATA[raleigh-schedule]]></slug>
+		<title><![CDATA[Raleigh Schedule]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Speakers]]></menulabel>
+		<slug><![CDATA[raleigh-speakers]]></slug>
+		<title><![CDATA[Raleigh Speakers]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Committee]]></menulabel>
+		<slug><![CDATA[raleigh-organizers]]></slug>
+		<title><![CDATA[Raleigh Organizers]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+	<node>
+		<menulabel><![CDATA[Sponsors]]></menulabel>
+		<slug><![CDATA[raleigh-sponsors]]></slug>
+		<title><![CDATA[Raleigh Sponsors]]></title>
+		<content><![CDATA[Watch this space for more info]]></content>
+		<undefined4><![CDATA[]]></undefined4>
+	</node>
+</data>
